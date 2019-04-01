@@ -20,5 +20,5 @@ The following list is provided for information. All the dependencies will be ins
 - [XMLParser](http://smalltalkhub.com/#!/~PharoExtras/XMLParser) is used to read Leibniz documents.
 - [RecursiveWriteBarrier](https://github.com//khinsen/RecursiveWriteBarrier) is used to make some objects fully immutable.
 - [EqualityThroughVariablesTrait](https://github.com/khinsen/EqualityThroughVariablesTrait) is a trait that implements object equality in terms of equality of instance and indexed variables.
-Change.
+
 
